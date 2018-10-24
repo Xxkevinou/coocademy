@@ -14,11 +14,13 @@ Fais ce qu'il te plait<br/>
 cf `Gemfile` (gems classiques d'une app rails)<br/>
 ## Schema de la base de donnée
 ```
-     ____________        ____________       
-    |   cours    |      |   lessons  |    
-    |¯¯¯¯¯¯¯¯¯¯¯¯|      |¯¯¯¯¯¯¯¯¯¯¯¯|      
-    |            |      |            |      
-    | title      |1    n| title      |
-    | description|¯¯¯¯¯¯| body       |
-    | lesson_id  |      |            |      
-    |____________|      |____________|
+                              ____________        ____________       
+                             |   cours    |      |   lessons  |    
+                             |¯¯¯¯¯¯¯¯¯¯¯¯|      |¯¯¯¯¯¯¯¯¯¯¯¯|      
+                             |            |      |            |      
+                             | title      |1    n| title      |
+                             | description|¯¯¯¯¯¯| body       |
+                             | lesson_id  |      |            |      
+                             |____________|      |____________|
+```
+## kiss
