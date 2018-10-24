@@ -21,7 +21,7 @@ cf `Gemfile` (gems classiques d'une app rails)<br/>
     | title      |1    n| title      |
     | description|¯¯¯¯¯¯| body       |
     | lesson_id  |      |            |      
-    |____________|      |____________|    ```
+    |____________|      |____________|
+    ```
     
-
-## kiss
+    ##kiss
